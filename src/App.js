@@ -4,6 +4,7 @@ import Header from './Components/Header';
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
 import Body from './Components/Body';
+import Sidebar from './Components/Sidebar';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <ContainerSection>
         <Navbar />
         <Body />
+        <Sidebar />
       </ContainerSection>
       <Footer />
 

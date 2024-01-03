@@ -17,7 +17,11 @@ export default Navbar;
  
 const ContainerNavbar = styled.div`
     background-color: greenyellow;
-    color: gray;
     width: 240px;
     height: 75vh;
+    text-decoration: underline none;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+
 `; 
